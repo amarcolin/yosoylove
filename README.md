@@ -27,3 +27,5 @@ Responsive web player with lyrics for SHOUTCast streaming.
 - `P` and `space` - play/pause
 - `arrow up` and `arrow down` - increase/decrease volume
 - `0 to 9` - volume percent
+
+Based on https://github.com/gsavio/player-shoutcast-html5 and https://github.com/stestagg/dashcast
