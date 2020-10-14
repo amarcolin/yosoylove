@@ -1,7 +1,8 @@
-# Player SHOUTCast HTML5
+# Shoutcast HTML5 Player With Chromecast Support
+https://amarcolin.github.io/yosoylove/
 Responsive web player with lyrics for SHOUTCast streaming. 
 
-![Responsive Web Player for SHOUTCast](https://i.imgur.com/x2NP8K8.png)
+![Responsive Web Player for SHOUTCast](https://i.imgur.com/vUJD4EX.png)
 
 ## Required:
 - PHP >= 5.3
